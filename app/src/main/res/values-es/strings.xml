@@ -1,0 +1,61 @@
+<resources>
+    <string name="transition_string">Hola</string>
+
+    <string name="app_name">Movies</string>
+    <string name="home">Inicio</string>
+    <string name="title_dashboard">Cartelera</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_activity_login">Registrarse</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Bienvenido !</string>
+    <string name="invalid_username">Nombre de usuario inválido</string>
+    <string name="invalid_password">La contraseña debe tener mínimo 6 caracteres</string>
+    <string name="login_failed">Error al iniciar sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="movies">Películas</string>
+    <string name="search">Buscar</string>
+    <string name="favorites">Favoritos</string>
+    <string name="title_activity_login2">Registrarse</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="signIn">Registrarse</string>
+    <string name="rememberMe">Recuérdame</string>
+    <string name="billboard">Cartelera</string>
+    <string name="popular">Popular</string>
+    <string name="topRated">Mejor valoradas</string>
+    <string name="upcoming">Próximamente</string>
+    <string name="d_movieLoadingFailed">Ha ocurrido un error al cargar la película.</string>
+    <string name="d_moviesLoadingFailed">Ha ocurrido un error al cargar las películas.</string>
+    <string name="searchMovie">Buscar película</string>
+    <string name="d_favoriteMoviesEmpty">Aún no has agregado ninguna película a favoritos.</string>
+    <string name="d_removeFavorite">"Se ha eliminado de favoritos: "</string>
+    <string name="d_addFavorite">"Se ha agregado a favoritos: "</string>
+    <string name="close">Cerrar</string>
+    <string name="undo">Deshacer</string>
+    <string name="d_loginDataIsIncorrect">Los datos de inicio de sesión son incorrectos.</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="d_emptyEmail">Correo electrónico vacío</string>
+    <string name="d_emptyPassword">Contraseña vacía</string>
+    <string name="d_emptyUsername">Nombre de usuario vacío</string>
+    <string name="d_userAlreadyRegistered">Usuario ya registrado.</string>
+    <string name="registrationDate">Fecha de registro</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="d_logout">¿Estás seguro de cerrar sesión?</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac condimentum nisi, ac consequat purus. Quisque porta laoreet neque, vitae dapibus risus vestibulum id. Curabitur nec neque at metus dapibus consectetur. Pellentesque vel massa malesuada, egestas nulla vel, auctor velit. Curabitur dignissim rhoncus risus, nec ultrices velit suscipit ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sed odio vitae diam iaculis rutrum.</string>
+    <string name="movieGenres">Géneros de la película</string>
+    <string name="movieTitle">Título de la película</string>
+    <string name="details">Detalles</string>
+    <string name="d_movieCreditsLoadingFailed">Ha ocurrido un error al cargar los créditos de la película.</string>
+    <string name="character">Personaje</string>
+    <string name="d_noMoviesFound">No se encontraron películas.</string>
+    <string name="name">Nombre</string>
+    <string name="d_searchMovie">Ingresa el nombre de la película que buscas.</string>
+</resources>
